@@ -1,0 +1,2 @@
+# Rubixbot
+Rubixbot algorihm
