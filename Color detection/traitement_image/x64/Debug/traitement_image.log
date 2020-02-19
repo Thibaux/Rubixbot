@@ -1,0 +1,2 @@
+﻿D:\visual studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (traitement_image.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  traitement_image.vcxproj -> D:\Groupe4 - Rubix Vision\ER4 - Rubix 2019\Détection_couleur\Color detection\x64\Debug\Tuto_OpenCV.exe
