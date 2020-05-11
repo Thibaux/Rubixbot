@@ -1,0 +1,19 @@
+--- TESTING ---
+
+- Windows -
+Test the modules separately and together to see if every module is operating correctly. 
+Firstly do step 1, the you can choose out of step A, B and C.
+
+1. Run the run.bat executable in Rubick's Cube Algo
+
+A. Kociemba -> Optiqtm
+Template: ToKociemba <TEST\One_line\”FILENAME”.”EXTENTION” | optiqtm
+CMD code: "ToKociemba <TEST\One_line\input_X.txt | optiqtm"
+
+B. Optiqtm -> Serial
+Template: ToKociemba <TEST\One_line\”FILENAME”.”EXTENTION” | optiqtm >> TEST\output.txt
+CMD code: "SerialCommunication COM11 <output.txt"
+
+C. Kociemba -> Optiqtm -> Serial Communication
+Template: ToKociemba <TEST\One_line\”FILENAME”.”EXTENTION” | optiqtm | SerialCommunication “PORT”
+CMD code: "ToKociemba <TEST\One_line\input_X.txt | optiqtm | SerialCommunication COM11"

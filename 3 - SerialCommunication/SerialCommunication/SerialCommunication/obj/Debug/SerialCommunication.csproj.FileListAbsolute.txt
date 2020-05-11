@@ -1,0 +1,21 @@
+C:\Users\enzob\source\repos\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+C:\Users\enzob\source\repos\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+C:\Users\enzob\source\repos\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+C:\Users\enzob\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojAssemblyReference.cache
+C:\Users\enzob\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.CoreCompileInputs.cache
+C:\Users\enzob\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+C:\Users\enzob\source\repos\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
+D:\enzob\Documents\PROJET\Project Rubix Cube\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+D:\enzob\Documents\PROJET\Project Rubix Cube\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+D:\enzob\Documents\PROJET\Project Rubix Cube\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+D:\enzob\Documents\PROJET\Project Rubix Cube\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojAssemblyReference.cache
+D:\enzob\Documents\PROJET\Project Rubix Cube\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.CoreCompileInputs.cache
+D:\enzob\Documents\PROJET\Project Rubix Cube\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+D:\enzob\Documents\PROJET\Project Rubix Cube\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
+D:\enzob\Documents\PROJET\Project Rubix Cube ER4\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+D:\enzob\Documents\PROJET\Project Rubix Cube ER4\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+D:\enzob\Documents\PROJET\Project Rubix Cube ER4\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+D:\enzob\Documents\PROJET\Project Rubix Cube ER4\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.CoreCompileInputs.cache
+D:\enzob\Documents\PROJET\Project Rubix Cube ER4\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+D:\enzob\Documents\PROJET\Project Rubix Cube ER4\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
+D:\enzob\Documents\PROJET\Project Rubix Cube ER4\Visual Studio Program\Communication ComputerMCU\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojAssemblyReference.cache
